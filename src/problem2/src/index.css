@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", system-ui, "Segoe UI", Roboto, sans-serif;
+  color: #1a1a2e;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+input {
+  font-family: inherit;
+}
